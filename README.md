@@ -17,6 +17,15 @@ Este es un proyecto simple para sortear amigos secretos. Los usuarios pueden agr
 4. Repite los pasos 2 y 3 para agregar más amigos.
 5. Haz clic en el botón "Sortear amigo" para seleccionar un amigo secreto al azar.
 
+Vista Inicio
+![inicio](assets/captura-pantalla/inicio.JPG)
+
+Vista Agregando Nombres
+![nombres](assets/captura-pantalla/nombres.JPG)
+
+Vista Sorteando Nombres
+![sorteo-amigo](assets/captura-pantalla/sorteo-amigo.JPG)
+
 ## Funciones JavaScript
 
 ### `agregarAmigo()`
