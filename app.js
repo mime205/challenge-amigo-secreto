@@ -6,6 +6,10 @@ function agregarAmigo() {
         alert("Debes ingresar un nombre");
         return;
     }
+    if (!isNaN(nombreAmigo)) {
+        alert("El nombre no puede ser un número");
+        return;
+    }
     arregloDeAmigos.push(nombreAmigo)
     console.log(arregloDeAmigos);
 
